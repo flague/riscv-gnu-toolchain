@@ -22,7 +22,7 @@
 	shallow = true
 [submodule "newlib"]
 	path = newlib
-	url = https://github.com/bminor/newlib.git
+	url = https://sourceware.org/git/newlib-cygwin.git
 	branch = master
 	shallow = true
 [submodule "gdb"]
